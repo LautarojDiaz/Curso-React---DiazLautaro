@@ -1,0 +1,66 @@
+[
+    {
+        "index": 1,
+        "modelo": "Paco Rabanne",
+        "precio": 1500,
+        "imagen": "components/million.png",
+        "stock": "4",
+        "cantidad": 1
+    },    
+    {
+        "index": 2,
+        "modelo": "Badee Al Oud ",
+        "precio": 1400,
+        "imagen": "components/glory.png",
+        "stock": "3",
+        "cantidad": 1  
+    },
+    {
+        "index": 3,
+        "modelo": "Jean Paul Gaultier",
+        "precio": 1100,
+        "imagen": "components/jean.png",
+        "stock": "8",
+        "cantidad": 1
+    },    
+    {
+        "index": 4,
+        "modelo": "Rolex",
+        "precio": 1200,
+        "imagen": "components/rolex.png",
+        "stock": "2",
+        "cantidad": 1
+    },
+    {
+        "index": 5,
+        "modelo": "Megalith",
+        "precio": 1200,
+        "imagen": "components/mega.png",
+        "stock": "4",
+        "cantidad": 1
+    },
+    {
+        "index": 6,
+        "modelo": "Dolce & Gabbana",
+        "precio": 1100,
+        "imagen": "components/dg.png",
+        "stock": "7",
+        "cantidad": 1
+    },
+    {
+        "index": 7,
+        "modelo": "Emporio Armani Anillo",
+        "precio": 1200,
+        "imagen": "components/armani.png",
+        "stock": "5",
+        "cantidad": 1
+    },
+    {
+        "index": 8,
+        "modelo": "Viceroy Anillo Acero",
+        "precio": 1100,
+        "imagen": "components/viceroy.png",
+        "stock": "5",
+        "cantidad": 1
+    }
+    ]
