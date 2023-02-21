@@ -27,7 +27,7 @@ const Navbar = () => {
                                 <NavLink className="nav-link text-light justify-content-end " activeClassName={"active"} to={"/"}>Productos</NavLink  >
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link text-light justify-content-end " activeClassName={"active"} to={"/category/Fragancias"}>Colonias</NavLink  >
+                                <NavLink className="nav-link text-light justify-content-end " activeClassName={"active"} to={"/category/Fragancias"}>Fragancias</NavLink  >
                             </li>
                             <li className="nav-item">
                                 <NavLink className="nav-link text-light" activeClassName={"active"}  to={"/category/Relojes"}>Relojes</NavLink>
