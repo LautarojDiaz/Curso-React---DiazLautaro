@@ -1,66 +1,74 @@
 [
     {
         "index": 1,
-        "modelo": "Paco Rabanne",
+        "nombre": "Paco Rabanne",
+        "descripcion":"Paco",
         "precio": 1500,
         "imagen": "components/million.png",
         "stock": "4",
-        "cantidad": 1
+        "categoria": "Fragancias"
     },    
     {
         "index": 2,
-        "modelo": "Badee Al Oud ",
+        "nombre": "Badee Al Oud ",
+        "descripcion":"Paco",
         "precio": 1400,
         "imagen": "components/glory.png",
         "stock": "3",
-        "cantidad": 1  
+        "categoria": "Fragancias"
     },
     {
         "index": 3,
-        "modelo": "Jean Paul Gaultier",
+        "nombre": "Jean Paul Gaultier",
+        "descripcion":"Paco",
         "precio": 1100,
         "imagen": "components/jean.png",
         "stock": "8",
-        "cantidad": 1
+        "categoria": "Fragancias"
     },    
     {
         "index": 4,
-        "modelo": "Rolex",
+        "nombre": "Rolex",
+        "descripcion":"Paco",
         "precio": 1200,
         "imagen": "components/rolex.png",
         "stock": "2",
-        "cantidad": 1
+        "categoria": "Relojes"
     },
     {
         "index": 5,
-        "modelo": "Megalith",
+        "nombre": "Megalith",
+        "descripcion":"Paco",
         "precio": 1200,
         "imagen": "components/mega.png",
         "stock": "4",
-        "cantidad": 1
+        "categoria": "Relojes"
     },
     {
         "index": 6,
-        "modelo": "Dolce & Gabbana",
+        "nombre": "Dolce & Gabbana",
+        "descripcion":"Paco",
         "precio": 1100,
         "imagen": "components/dg.png",
         "stock": "7",
-        "cantidad": 1
+        "categoria": "Anillos"
     },
     {
         "index": 7,
-        "modelo": "Emporio Armani Anillo",
+        "nombre": "Emporio Armani Anillo",
+        "descripcion":"Paco",
         "precio": 1200,
         "imagen": "components/armani.png",
         "stock": "5",
-        "cantidad": 1
+        "categoria": "Anillos"
     },
     {
         "index": 8,
-        "modelo": "Viceroy Anillo Acero",
+        "nombre": "Viceroy Anillo Acero",
+        "descripcion":"Paco",
         "precio": 1100,
         "imagen": "components/viceroy.png",
         "stock": "5",
-        "cantidad": 1
+        "categoria": "Anillos"
     }
     ]
